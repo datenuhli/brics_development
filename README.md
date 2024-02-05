@@ -24,6 +24,7 @@ API to [**nasdagdatalink**](https://www.nasdaq.com/nasdaq-data-link) in the code
 ## Tools
 
 Organizing Python codes using Jupyter Lab inside Anaconda.
+
 Creating vizualizations and putting them together in a storyboard with tableau
   
  [Storyboard](https://public.tableau.com/app/profile/julian.klauder/viz/BRICS_17068388485610/Story1)
