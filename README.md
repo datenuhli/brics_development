@@ -12,11 +12,15 @@ BRICS economies developed well since 2001. Their combined GDP's challenge USA's 
 ## Data
 
 [**World bank data**](https://www.kaggle.com/datasets/raminrzayev/life-expectancy-2000-2020/data)
+
+for:
 'date', 'country', 'continent', 'life_expectancy', 'co2_emissions', 'health_expenditure', 'gdp_per_capita', 
 'internet_users', 'military_exp', 'open_defecation', 'drinking_water', 'obesity_among_adults', 'beer_cons_per_capita', 
 'year', 'health_total', 'military_total', 'debt_total'
 
 API to [**nasdagdatalink**](https://www.nasdaq.com/nasdaq-data-link) in the code
+
+for:
 'population', 'account_balance','account_balance_GDP', 'debt_GDP', 'gdp', 'share_of_world_GDP_ppp',
 'year', 'health_total', 'military_total', 'debt_total'
 
