@@ -6,7 +6,8 @@ He identified these countries as emerging economic powerhouses that could challe
 ## Objective
 
 BRICS economies developed well since 2001. Their combined GDP's challenge USA's GDP.
-Have people in BRICS countries benefited from economic succes?
+
+**Have people in BRICS countries benefited from economic succes?**
 
 ## Data
 
